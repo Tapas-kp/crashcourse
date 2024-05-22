@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       Uncomment to get particular component
-      {/* <Counter1 /> */}
+      <Counter1 />
       {/* <UsernameInput /> */}
       {/* <ProfileUpdater /> */}
       {/* <ScoreKeeper /> */}
